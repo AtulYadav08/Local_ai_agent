@@ -44,7 +44,7 @@ Download and install Ollama from the official website:
 
 Open your terminal and run:
 
-```bash
+
 ollama pull llama3.1
 
 Then start the model:
@@ -54,8 +54,8 @@ Keep this running in a terminal tab or background process.
 
 3. 📦 Clone the Repository
 
-git clone https://github.com/your-username/careerguide-ai.git
-cd careerguide-ai
+git clone https://github.com/AtulYadav08/Local_ai_agent
+cd Local_ai_agent
 
 4. 🧪 Create & Activate Virtual Environment
 # Create virtual environment
@@ -99,7 +99,8 @@ Port conflict	Change port in main.py (app.run(port=5001))
 Session not working	Ensure SECRET_KEY is set in Flask app
 
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/1a676f83-266e-4e2b-af69-e16336d76a5d)
+![Local_ai_agent](static/Screenshot 2025-06-16 172438.png)
+
 
 
 🙏 Acknowledgments
