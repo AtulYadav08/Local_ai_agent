@@ -100,7 +100,7 @@ Session not working	Ensure SECRET_KEY is set in Flask app
 
 📸 Screenshots
 
-![image alt]([static/Screenshot 2025-06-16 172438.png](https://github.com/AtulYadav08/Local_ai_agent/blob/063b029f4a1332451ed160e6cdabeb467435adf6/static/Screenshot%202025-06-16%20172438.png))
+![image alt](https://github.com/AtulYadav08/Local_ai_agent/blob/063b029f4a1332451ed160e6cdabeb467435adf6/static/Screenshot%202025-06-16%20172438.png)
 
 
 
